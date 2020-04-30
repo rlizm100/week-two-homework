@@ -1,0 +1,38 @@
+
+.margin{
+    margin-bottom: 20px;
+}
+
+#grad {
+  background-image: linear-gradient(to right, rgba(82, 77, 119, 0), rgba(38,29,116,1));
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
+}
+
+.sections{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    background-color: rgb(197, 184, 245);
+    border: rounded;
+    border-width: thick;
+    border-top-color: rgba(38,29,116,1);
+    border-left-color: rgba(38,29,116,1);
+}
+
+.icons{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer{
+    text-align: center;
+}
