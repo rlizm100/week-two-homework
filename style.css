@@ -9,6 +9,7 @@
 
 h1{
     text-align: center;
+    color:  rgba(38,29,116,1)
 }
 
 p{
@@ -20,11 +21,21 @@ p{
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 30px;
-    background-color: rgb(197, 184, 245);
-    border: rounded;
+    border-radius: 25px;
     border-width: thick;
-    border-top-color: rgba(38,29,116,1);
-    border-left-color: rgba(38,29,116,1);
+    border: 2px solid rgba(38,29,116,1);
+    color:  rgba(38,29,116,1);
+}
+
+.sections2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 25px;
+    border-width: thick;
+    border: 2px solid rgba(38,29,116,1);
+    color: white;
+    background-color: rgba(38,29,116,1);
 }
 
 .icons{
