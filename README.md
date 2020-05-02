@@ -1,1 +1,1 @@
-# week-two-homework
+# Creating a responsive About Me website.
